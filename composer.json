@@ -1,0 +1,11 @@
+{
+    "name": "elizarafee/carter",
+    "description": "Website for Carter",
+    "type": "boomcms-theme",
+    "license": "MIT",
+    "authors": [{
+        "name": "Eliza Ahmed",
+        "email": "elizarafee@gmail.com"
+    }],
+    "minimum-stability": "dev"
+}
