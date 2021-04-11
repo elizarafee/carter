@@ -1,0 +1,21 @@
+{
+  "name": "carter",
+  "version": "1.0.0",
+  "description": "BoomCMS Demo Theme =========",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizarafee/carter.git"
+  },
+  "author": "Eliza Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizarafee/carter/issues"
+  },
+  "homepage": "https://github.com/elizarafee/carter#readme"
+}
